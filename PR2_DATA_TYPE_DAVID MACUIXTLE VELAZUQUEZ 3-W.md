@@ -18,3 +18,6 @@ print(type(y)) #aqui se imprime el tipo de dato que contiene la varible y
 print(type(z)) #aqui se imprime el tipo de dato que contiene la varible z
 
 print(" ")
+
+![image](https://github.com/user-attachments/assets/ecc09fff-18c5-4291-b0d2-b9a623df2249)
+![image](https://github.com/user-attachments/assets/d2f2c3e5-a709-4049-b54b-e375083e59a6)
