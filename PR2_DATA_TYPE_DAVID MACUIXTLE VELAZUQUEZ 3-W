@@ -1,0 +1,20 @@
+PR2_DATA_TYPE
+DAVID MACUIXTLE VELAZUQUEZ
+
+#La siguiente practica es de tipo de datos
+
+print(" ")
+
+print("David Macuixtle Velazquez 3-w")
+
+print(" ")
+
+x = ["Manzana", "uva", "limon"] #aqui se declara a x con una serie de palabras y encerado con []
+y = ("Manzana", "uva" , "limon")#aqui se declara a x con una serie de palabras y encerado con ()
+z = ("manzana") #aqui se declara una palabra y encerado con ()
+
+print(type(x)) #aqui se imprime el tipo de dato que contiene la varible x 
+print(type(y)) #aqui se imprime el tipo de dato que contiene la varible y
+print(type(z)) #aqui se imprime el tipo de dato que contiene la varible z
+
+print(" ")
