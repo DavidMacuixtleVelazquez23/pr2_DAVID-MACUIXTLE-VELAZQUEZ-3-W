@@ -1,5 +1,5 @@
 PR2_DATA_TYPE
-DAVID MACUIXTLE VELAZUQUEZ
+David Macuixtle Velazquez
 
 #La siguiente practica es de tipo de datos
 
@@ -19,5 +19,5 @@ print(type(z)) #aqui se imprime el tipo de dato que contiene la varible z
 
 print(" ")
 
-![image](https://github.com/user-attachments/assets/ecc09fff-18c5-4291-b0d2-b9a623df2249)
+![image](https://github.com/user-attachments/assets/bd0de530-d32e-4995-9af5-544210e9b54d)
 ![image](https://github.com/user-attachments/assets/d2f2c3e5-a709-4049-b54b-e375083e59a6)
